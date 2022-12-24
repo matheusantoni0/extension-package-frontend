@@ -1,0 +1,29 @@
+{
+  "name": "atlantjs-frontend",
+  "displayName": "Atlantjs frontend",
+  "description": "The main generic extensions to leave your VSCode flying!",
+  "version": "1.2.1",
+  "publisher": "Atlantjs",
+  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-frontend",
+  "icon": "icon.png",
+  "__metadata": {
+    "publisherDisplayName": "Atlantjs"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "clinyong.vscode-css-modules",
+    "formulahendry.auto-rename-tag",
+    "jzmstrjp.color-the-tag-name",
+    "naumovs.color-highlight",
+    "royaction.color-manager",
+    "styled-components.vscode-styled-components",
+    "stylelint.vscode-stylelint",
+    "team-sapling.sapling",
+    "ysemeniuk.jump-tag"
+  ]
+}
