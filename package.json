@@ -24,6 +24,7 @@
     "styled-components.vscode-styled-components",
     "stylelint.vscode-stylelint",
     "team-sapling.sapling",
-    "ysemeniuk.jump-tag"
+    "ysemeniuk.jump-tag",
+    "WallabyJs.console-ninja"
   ]
 }
