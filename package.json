@@ -2,7 +2,7 @@
   "name": "atlantjs-frontend",
   "displayName": "Atlantjs frontend",
   "description": "The main generic extensions to leave your VSCode flying!",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "publisher": "Atlantjs",
   "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-frontend",
   "icon": "icon.png",
